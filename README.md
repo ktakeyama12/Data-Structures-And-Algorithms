@@ -7,7 +7,7 @@ This repository links to python and C version of commonly used data structures a
 ## Main URLs
 
 - [Python Data Structures and Algorithms](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms)
-- C
+- [C Data Structures and Algorithms](https://github.com/myshmeh/dsa-in-c)
 
 ## Data Structures Implementations
 
@@ -19,12 +19,19 @@ This repository links to python and C version of commonly used data structures a
 ### Binary Search Tree
 
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Implementations/BinarySearchTree.py)
-- C
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/tree/binary-search.c)
+
+### B Tree
+
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/tree/b-tree.c)
 
 ### Hash Table (Separate Chaining)
 
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Implementations/HashTable_Separate_Chaining.py)
-- C
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/hashing/hash-chaining.c)
+
+### Hash Table (Open Addressing)
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/hashing/hash-open-address.c)
 
 ### Heap
 
@@ -51,7 +58,15 @@ This repository links to python and C version of commonly used data structures a
 ### Bubble Sort
 
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/BubbleSort.py)
-- C
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/bubble-sort.h)
+
+### Insertion Sort
+
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/insertion_sort.h)
+
+### Selection Sort
+
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/selection_sort.h)
 
 ### Merge Sort
 
@@ -66,4 +81,4 @@ This repository links to python and C version of commonly used data structures a
 ### Tree Traversals (Preorder, Inorder, Postorder, Level Order)
 
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/QuickSort.py)
-- C
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/tree/binary-tree.c) (excl. level order)
