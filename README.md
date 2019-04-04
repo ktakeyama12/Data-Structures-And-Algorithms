@@ -31,6 +31,7 @@ This repository links to python and C version of commonly used data structures a
 - [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/hashing/hash-chaining.c)
 
 ### Hash Table (Open Addressing)
+
 - [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/hashing/hash-open-address.c)
 
 ### Heap
@@ -53,6 +54,8 @@ This repository links to python and C version of commonly used data structures a
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Implementations/Stack.py)
 - C
 
+### Trie
+
 ## Algorithms
 
 ### Bubble Sort
@@ -60,13 +63,13 @@ This repository links to python and C version of commonly used data structures a
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/BubbleSort.py)
 - [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/bubble-sort.h)
 
+### Bucket Sort
+
+### Heap Sort
+
 ### Insertion Sort
 
 - [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/insertion_sort.h)
-
-### Selection Sort
-
-- [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/selection_sort.h)
 
 ### Merge Sort
 
@@ -77,6 +80,10 @@ This repository links to python and C version of commonly used data structures a
 
 - [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/QuickSort.py)
 - C
+
+### Selection Sort
+
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/selection_sort.h)
 
 ### Tree Traversals (Preorder, Inorder, Postorder, Level Order)
 
