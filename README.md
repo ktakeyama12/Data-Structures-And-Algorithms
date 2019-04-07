@@ -69,6 +69,7 @@ This repository links to python and C version of commonly used data structures a
 
 ### Insertion Sort
 
+- [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/InsertionSort.py)
 - [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/insertion_sort.h)
 
 ### Merge Sort
