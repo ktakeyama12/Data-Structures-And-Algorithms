@@ -87,6 +87,9 @@ This repository links to python and C version of commonly used data structures a
 
 ### Tree Traversals (Preorder, Inorder, Postorder, Level Order)
 
+- [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/QuickSort.py)
+- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/tree/binary-tree.c) (excl. level order)
+
 ## Common Problems
 
 ### Reverse Linked List
@@ -94,5 +97,3 @@ This repository links to python and C version of commonly used data structures a
 - [Python Recursive](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/CommonProblems/Reverse_Linked_List_Recursive.py)
 - [Python Iterative](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/CommonProblems/Reverse_Linked_List_Iterative.py)
 
-- [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/QuickSort.py)
-- [C](https://github.com/myshmeh/dsa-in-c/blob/master/data-structures/tree/binary-tree.c) (excl. level order)
