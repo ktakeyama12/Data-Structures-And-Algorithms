@@ -84,6 +84,7 @@ This repository links to python and C version of commonly used data structures a
 
 ### Selection Sort
 
+- [Python](https://github.com/ktakeyama12/Python-Data-Structures-and-Algorithms/blob/master/Algorithms/SelectionSort.py)
 - [C](https://github.com/myshmeh/dsa-in-c/blob/master/algorithms/selection_sort.h)
 
 ### Tree Traversals (Preorder, Inorder, Postorder, Level Order)
